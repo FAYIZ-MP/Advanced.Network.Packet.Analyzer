@@ -45,7 +45,7 @@
 🖥️ `guipacketsniffer.py` - GUI version with alerts.  
 🌐 `get_interfaces.py` - Lists available network interfaces.  
 
-## 📸 Screenshots
+## 📸 Preview
 **CLI Version:**  
 ![CLI Packet Sniffer](Screenshot-2025-02-20-222937.png)  
 
