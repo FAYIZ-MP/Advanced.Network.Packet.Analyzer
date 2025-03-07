@@ -1,6 +1,6 @@
 # 🛡️ Advanced Network Packet Analyzer
 
-A powerful GUI-based network packet sniffer that provides:
+📟A powerful GUI-based network packet sniffer that provides:
 
 ✅ **Real-time Packet Monitoring**  
 ✅ **Protocol Filtering (TCP, UDP, ICMP)**  
@@ -53,8 +53,11 @@ A powerful GUI-based network packet sniffer that provides:
 ![GUI Packet Sniffer](Screenshot-2025-02-20-232828.png)  
 
 ## 📜 License
-Open-source under the **MIT License**.
+Licensed under the **MIT License**.
 
-## 👤 Author
-Developed by **Fayiz M P** 🚀
+## 👨‍💻 About the Developer
+Developed by **Fayiz M P**, a passionate **Cybersecurity Engineer & Developer** focused on creating secure and innovative applications.
+
+🔗 [LinkedIn]www.linkedin.com/in/fayiz-m-p-361228295 | [GitHub]https://github.com/FAYIZ-MP
+
 
