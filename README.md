@@ -19,7 +19,7 @@
 ## 💻 Installation & Setup
 1️⃣ **Clone the Repository**  
    ```bash
-   git clone [https://github.com/FAYIZ-MP/PRODIGY_CS_05.git]
+   git clone https://github.com/FAYIZ-MP/PRODIGY_CS_05.git
    cd packet-sniffer
    ```
 2️⃣ **Install Dependencies**  
